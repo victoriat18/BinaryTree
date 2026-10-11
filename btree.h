@@ -6,7 +6,7 @@
 // CSCI 340 PE1
 // Binary Tree: stores data in nodes and can add values, count nodes,
 // find the tree's height, and visit each node in order.
-// 10/13/2026
+// 10/20/2026
 //I certify that this is my own work and, where appropriate, an extension
 // Of the starter code provided for the assignment.
 //
